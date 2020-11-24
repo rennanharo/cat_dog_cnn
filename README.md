@@ -23,6 +23,7 @@ Os datasets estão na pasta `data`. Consistem em basicamente 4 datasets (2 para 
 **O split do dataset já foi feito. <br>
 Temos em nosso dataset de treino 1.000 imagens de cachorros e 1.000 imagens de gatos. <br>
 O nosso datset de teste, por sua vez, possui 400 imagens de cada.**<br>
-![Imagem](assets/kaggle_dataset.jpeg)
+<br>
+![datasetplit](assets/kaggle_dataset.jpeg)
 
 Licensed under the MIT License. 2020.
