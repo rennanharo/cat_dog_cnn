@@ -25,5 +25,5 @@ Temos em nosso dataset de treino 1.000 imagens de cachorros e 1.000 imagens de g
 O nosso datset de teste, por sua vez, possui 400 imagens de cada.**<br>
 <br>
 ![datasetplit](assets/kaggle_dataset.jpeg)
-
+<br>
 Licensed under the MIT License. 2020.
