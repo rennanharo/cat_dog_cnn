@@ -1,6 +1,6 @@
 # Implementando uma CNN para reconhecimento de imagens
 
-![CNN_gif]('assets/cnn.gif')
+![CNNgif]('assets/cnn.gif')
 
 _O objetivo desse notebook é implementar uma rede neural convolucional que tem como função reconhecer se a imagem inputada é de um cachorro ou de um gato._
 
