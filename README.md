@@ -4,7 +4,7 @@
 
 _O objetivo desse notebook é implementar uma rede neural convolucional que tem como função reconhecer se a imagem inputada é de um cachorro ou de um gato._
 
-_Trabalho desenvolvido para a matéria de Técnicas para Descobertas do Conhecimento._ <br>
+_Trabalho desenvolvido para a matéria de Tecnologias para Descobertas do Conhecimento._ <br>
 **Grupo: Daniel Augusto, Douglas Abdo, Matheus Fialho e Rennan Haro.**
 
 ## Setup
