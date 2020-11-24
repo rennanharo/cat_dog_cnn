@@ -21,7 +21,7 @@ Encontre mais informações sobre o dataset utilizado e downloads adicionais [ne
 Os datasets estão na pasta `data`. Consistem em basicamente 4 datasets (2 para treinar e 2 para testar), totalizando 2.800 imagens. 1.400 imagens de gatos e 1.400 imagens de cachorros.<br>
 
 O split do dataset já foi feito. <br>
-Temos em nosso dataset de **treino 1.000 imagens de cachorros e 1.000 imagens de gatos.** <br>
+Temos em nosso dataset de treino 1.000 imagens de cachorros e 1.000 imagens de gatos. <br>
 O nosso datset de teste, por sua vez, possui 400 imagens de cada.<br>
 
 ![datasetplit](assets/kaggle_dataset.jpeg)
